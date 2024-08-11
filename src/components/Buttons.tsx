@@ -2,7 +2,7 @@ interface Props {
     children: string;
     color?: 'primary' | 'secondary';
     onClick: () => void;
-}
+} 
 
 const Buttons = ({children, color='primary', onClick} : Props) => {
     return ( 

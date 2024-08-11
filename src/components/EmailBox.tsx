@@ -1,7 +1,7 @@
 import React from "react"
 import emailjs from "emailjs-com"
 import SentEmail from "./SentEmail"
-
+ 
 export default function EmailBox(props) {
     const [showNext, setShowNext] = React.useState(false)
 

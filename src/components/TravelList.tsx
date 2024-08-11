@@ -18,6 +18,6 @@ export default [
         description: "Went to the big apple with my family and spent time with friends. I stayed in Flushing but spent most of my time in Manhattan, enjoying the food and christmas decorations.",
         time: "December 2023",
         image: "img/nyc.jpg",
-        key: "Nyc"
+        key: "Nyc" 
     } 
 ]

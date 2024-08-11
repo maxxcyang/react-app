@@ -3,7 +3,7 @@ import React from "react"
 export default function TravelCard({...props}) {
     console.log(props.img)
     return (
-        <div className="travelcard">
+        <div className="travelcard"> 
             <div>
                 <img className="travelcard--image" src={props.image}/>  
             </div>

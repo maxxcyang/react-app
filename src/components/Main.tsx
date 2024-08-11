@@ -5,7 +5,7 @@ import EmailBox from "./EmailBox";
 
 export default function Main() {   
   return <div className="page">
-    <body className="body">
+    <body className="body"> 
       <MainText />
       <EmailBox />
     </body>

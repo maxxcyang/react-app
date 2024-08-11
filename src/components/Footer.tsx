@@ -7,4 +7,4 @@ export default function Footer() {
             <p>linkedin.com/maxxyang</p> 
         </footer>
     )
-}
+} 

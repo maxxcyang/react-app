@@ -6,7 +6,7 @@ export default function MainText() {
         time = "morning" 
     }
     else if(hours > 18) {
-        time = "evening"
+        time = "evening" 
     }
     return (
         <div className="maintext">

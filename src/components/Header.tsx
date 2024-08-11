@@ -7,7 +7,7 @@ export default function Header(props) {
     function clickAbout() {
         props.toggle(false);
     }
-
+ 
     return (
         <nav className="navbar"> 
             <h3>Maxx Yang</h3>
