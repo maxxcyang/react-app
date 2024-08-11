@@ -3,7 +3,7 @@ export default function MainText() {
     const hours = date.getHours()
     let time = "afternoon"
     if(hours < 12) {
-        time = "morning"
+        time = "morning" 
     }
     else if(hours > 18) {
         time = "evening"

@@ -9,7 +9,7 @@ export default function Header(props) {
     }
 
     return (
-        <nav className="navbar">
+        <nav className="navbar"> 
             <h3>Maxx Yang</h3>
             <button className="link" onClick={clickPort}><b>Portfolio</b></button>
             <button className="link" onClick={clickAbout}><b>About Me</b></button>

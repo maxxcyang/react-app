@@ -8,7 +8,7 @@ import Travel from "./components/Travel";
 
 export default function App() {
 
-  const [showMain, setShowMain] = React.useState(true)
+  const [showMain, setShowMain] = React.useState(true) 
 
   return <div className="page">
     <Header toggle={setShowMain}/>

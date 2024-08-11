@@ -9,7 +9,7 @@ export default function EmailBox(props) {
         name: "",
         email: ""
     })
-    function handleChange(event) {
+    function handleChange(event) { 
         const {name, value} = event.target
         setFormData(prevFormData => {
             return {

@@ -5,7 +5,7 @@ export default function TravelCard({...props}) {
     return (
         <div className="travelcard">
             <div>
-                <img className="travelcard--image" src={props.image}/> 
+                <img className="travelcard--image" src={props.image}/>  
             </div>
             <div>
                 <h2>{props.title}</h2>

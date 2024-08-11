@@ -19,5 +19,5 @@ export default [
         time: "December 2023",
         image: "img/nyc.jpg",
         key: "Nyc"
-    }
+    } 
 ]

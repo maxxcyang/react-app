@@ -3,7 +3,7 @@ import MainText from "./MainText";
 import EmailBox from "./EmailBox";
 
 
-export default function Main() {  
+export default function Main() {   
   return <div className="page">
     <body className="body">
       <MainText />

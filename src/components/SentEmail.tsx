@@ -1,7 +1,7 @@
 import React from 'react';
 
 const SentEmail: React.FC = () => {
-  const headingStyle: React.CSSProperties = {
+  const headingStyle: React.CSSProperties = { 
     textAlign: 'center'
   };
 
