@@ -1,0 +1,94 @@
+.body {
+    background-color: #E7F2FA;
+    color: #2E86C1;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #2E86C1;
+    color: #E7F2FA;
+
+}
+
+.navbar > h3 {
+    background-color: #2E86C1;
+    color: #E7F2FA;
+    margin-left: 10px;
+}
+
+.navbar > button {
+    background-color: #2E86C1;
+    color: #E7F2FA;
+    margin-right: 10px;
+    background: none;
+    border: none;
+    font-size: 30px;
+
+}
+
+.maintext {
+    height: 100%;
+    margin: 0px;
+}
+
+footer {
+    background-color: #2E86C1;
+    color: #E7F2FA;
+    bottom: 0;
+    width: 100%;
+    border: solid;
+    margin: 0;
+    padding: 0;
+}
+
+footer > a {
+    color: #E7F2FA;
+}
+
+.travelcard {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+    border-style: outset;
+    max-width: 600px;
+    max-height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.travelcard--image {
+    width: auto;
+    height: 250px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 10%;
+}
+
+.EmailBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.EmailBox form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.SentEmail {
+    margin: 0;
+    padding: 0;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: #cae5f9;
+}
