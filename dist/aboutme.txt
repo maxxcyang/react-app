@@ -1,0 +1,6 @@
+I could tell you all about my skills, but you could just get that from my résumé. 
+Instead, I wanted to showcase what I could do with a hands-on project (and have a little fun with it, because that's what life is about). 
+So, the Summer of 2024, I decided to create a website with React because of the opportunities it presented in the frontend world.
+Along the way, I ended up learning topics like version control, custom domains, and key encryption, and connected with fellow developers throughout learning the React library.
+And I am excited to present you with this website! All of the components you see here are reusable and demonstrate React's composability and interactivity.
+My greatest strengths as a developer are my curiosity and resourcefulness, and I hope this project has shown that.

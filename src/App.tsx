@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Main from "./components/Main";
-import Travel from "./components/Travel";
+import AboutMe from "./components/AboutMe";
 
 
 
@@ -12,7 +12,7 @@ export default function App() {
 
   return <div className="page">
     <Header toggle={setShowMain}/>
-    {showMain ? <Main /> : <Travel />}
+    {showMain ? <Main /> : <AboutMe />}
     <Footer />
   </div>;
 }

@@ -1,8 +1,9 @@
 .body {
     background-color: #E7F2FA;
     color: #2E86C1;
+    padding: 10px;
 }
- 
+
 .navbar {
     display: flex;
     align-items: center;
@@ -92,3 +93,15 @@ a:link {
 a:visited {
     color: #cae5f9;
 }
+
+.img-container {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
